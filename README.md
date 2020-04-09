@@ -10,6 +10,7 @@ implemented text recognition from image using openCV and OCR in python.
 
 # Example
 
+![example_06](https://user-images.githubusercontent.com/61384707/78921027-ea7bbf80-7ab1-11ea-8cd8-bde0df2bfa17.jpg)
 
 **Output:**
 
