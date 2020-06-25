@@ -14,6 +14,9 @@ implemented text recognition from image using openCV and OCR in python.
 
 **Output:**
 
+![1](https://user-images.githubusercontent.com/61384707/85708630-02063400-b702-11ea-89b2-683397c81374.JPG)
+
+
 PRINTED MATERIALS
 
 _ As.used in this policy, the term “printed materials”
